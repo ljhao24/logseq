@@ -1,15 +1,2 @@
 #+TITLE: Dec 16th, 2020
 
-** level 1
-** level 2
-*** fsdfs
-*** sfsdf
-*** daf
-**** sdfafa
-***** wfwefew
-***** sdffdf
-***** sfdsdfds
-** [[page1]]
-*** sdfsadfk
-*** is this in page1 or?
-**
