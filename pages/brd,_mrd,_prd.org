@@ -1,9 +1,9 @@
 #+TITLE: BRD, MRD, PRD
 
+** [[https://medium.com/@TylerLogtenberg/brd-prd-trd-the-case-of-the-confusing-requirements-cebd5e54ff2b][BRD, PRD, TRD… The case of the confusing requirements.]]
 ** [[BRD]]
 *** To define the business needs of any given project.
 *** the first step of any product lifecycle
 *** prevent surprises and wasted effort on elements that do not answer the business objectives.
 ** [[MRD]]
 ** [[PRD]]
-** [[https://medium.com/@TylerLogtenberg/brd-prd-trd-the-case-of-the-confusing-requirements-cebd5e54ff2b][BRD, PRD, TRD… The case of the confusing requirements.]]
