@@ -31,9 +31,6 @@
 **** who's for
 **** how goals tie up to overall business objective
 **** use [[SMART]] goals
-:PROPERTIES:
-:background_color: rgb(151, 134, 38)
-:END:
 *** Needs statement
 *** Requirements
 *** Identify Stakeholders
