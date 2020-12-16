@@ -41,7 +41,7 @@
 :END:
 **** and what is required to build it
 *** Identify Stakeholders
-*** SWOT analysis
+*** [[SWOT analysis]]
 *** Limitations
 *** Time Frame and Schedule
 *** Budget and Financial Impact
