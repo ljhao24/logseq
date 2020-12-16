@@ -1,0 +1,3 @@
+#+TITLE: BRD
+
+** A business requirements document describes the project you are about to work on in detail. It describes the purpose of starting the project, what business solution does it provides, the purpose behind doing the project, its features and functionalities, and its timeline of completion.
