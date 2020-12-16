@@ -26,6 +26,8 @@
 :later: 1608122691423
 :END:
 *** Desired goals and project objectives
+**** describe the high-level goals
+****
 *** Needs statement
 *** Requirements
 *** Identify Stakeholders
