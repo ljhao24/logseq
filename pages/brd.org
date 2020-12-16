@@ -30,7 +30,7 @@
 **** what will ultimately achieve
 **** who's for
 **** how goals tie up to overall business objective
-**** use [[SMART]] goals
+**** ^use [[SMART]] goals^
 *** Needs statement
 *** Requirements
 *** Identify Stakeholders
