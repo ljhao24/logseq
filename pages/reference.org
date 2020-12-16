@@ -1,4 +1,3 @@
 #+TITLE: reference
 
-** [[BRD, PRD, TRD… The case of the confusing requirements.]]
-**
+** /link
