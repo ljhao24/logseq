@@ -1,0 +1,4 @@
+#+TITLE: BRD, MRD, PRD
+
+** [[BRD]]
+** To define the business needs of any given project. The business requirements document is always the first step of any product lifecycle. Its goal is to get all stakeholders on the same page, and ensure there are no surprises coming from the business units. A properly done BRD will prevent surprises and wasted effort on elements that do not answer the business objectives.
