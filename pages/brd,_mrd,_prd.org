@@ -7,3 +7,6 @@
 ** [[MRD]]
 ** [[PRD]]
 **
+**
+**
+** https://medium.com/@TylerLogtenberg/brd-prd-trd-the-case-of-the-confusing-requirements-cebd5e54ff2b
