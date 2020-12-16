@@ -13,7 +13,7 @@
 :PROPERTIES:
 :background_color: rgb(73, 125, 70)
 :END:
-*** ^^EXECUTIVE SUMMARY^^
+*** EXECUTIVE SUMMARY
 **** summarize the entier document
 **** outline the need for project
 **** its requirements
