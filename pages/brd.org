@@ -10,10 +10,10 @@
 *** Executive Summary
 *** Project scope
 *** Desired goals and project objectives
-Needs statement
-Requirements
-Identify Stakeholders
-SWOT analysis
-Limitations
-Time Frame and Schedule
-Budget and Financial Impact
+*** Needs statement
+*** Requirements
+*** Identify Stakeholders
+*** SWOT analysis
+*** Limitations
+*** Time Frame and Schedule
+*** Budget and Financial Impact
