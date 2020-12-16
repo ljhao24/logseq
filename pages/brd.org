@@ -21,6 +21,10 @@
 *** Project scope
 **** draws the boundaries of the product
 ***** /what is included in the product and what isn't/
+***** LATER /All project functionalities or special requests need to be included here 
+:PROPERTIES:
+:later: 1608122691423
+:END:
 *** Desired goals and project objectives
 *** Needs statement
 *** Requirements
