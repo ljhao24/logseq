@@ -43,5 +43,6 @@
 *** Identify Stakeholders
 *** [[SWOT analysis]]
 *** Limitations
+**** aware of the possible obstacles
 *** Time Frame and Schedule
 *** Budget and Financial Impact
