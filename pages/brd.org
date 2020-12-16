@@ -32,7 +32,8 @@
 **** convey the importance of product
 /help gain trust and confidence/
 *** [[Requirements]]
-****
+**** what needs to build
+**** and what is required to build it
 *** Identify Stakeholders
 *** SWOT analysis
 *** Limitations
