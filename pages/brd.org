@@ -1,6 +1,6 @@
 #+TITLE: BRD
 
-** what is BRD?
+** *what is BRD?*
 *** describes the purpose of starting the project
 *** what business solution does it provides
 *** the purpose behind doing the project
