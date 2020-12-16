@@ -16,7 +16,7 @@
 *** EXECUTIVE SUMMARY
 **** summarize the entier document
 **** outline the need for project
-**** its requirements
+**** its ((5fda059a-3470-443e-a046-121a9c60bedb)) requirements
 **** how does it tie up to overall business goals
 *** Project scope
 **** draws the boundaries of the product
@@ -32,6 +32,9 @@
 **** convey the importance of product
 /help gain trust and confidence/
 *** [[Requirements]]
+:PROPERTIES:
+:id: 5fda059a-3470-443e-a046-121a9c60bedb
+:END:
 **** what needs to build
 **** and what is required to build it
 *** Identify Stakeholders
