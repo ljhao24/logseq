@@ -13,6 +13,8 @@
 **** its requirements
 **** how does it tie up to overall business goals
 *** Project scope
+**** draws the boundaries of the project
+***** what is included in the product
 *** Desired goals and project objectives
 *** Needs statement
 *** Requirements
