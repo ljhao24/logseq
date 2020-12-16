@@ -1,6 +1,9 @@
 #+TITLE: BRD
 
 ** *what is BRD?*
+:PROPERTIES:
+:background_color: rgb(73, 125, 70)
+:END:
 *** describes the purpose of starting the project
 *** what business solution does it provides
 *** the purpose behind doing the project
