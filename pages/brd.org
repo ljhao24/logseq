@@ -30,6 +30,7 @@
 **** ^^use [[SMART]] goals^^
 *** Needs statement
 **** convey the importance of product
+/help gain trust and confidence/
 *** Requirements
 *** Identify Stakeholders
 *** SWOT analysis
