@@ -9,6 +9,9 @@
 ** KEY ELEMENTS
 *** Executive Summary
 **** summarize the entier document
+**** outline the need for project
+**** its requirements
+**** how does it tie up to overall business goals
 *** Project scope
 *** Desired goals and project objectives
 *** Needs statement
