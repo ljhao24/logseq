@@ -1,9 +1,9 @@
 #+TITLE: BRD
 
 ** what is BRD?
-** describes the purpose of starting the project
-** what business solution does it provides
-** the purpose behind doing the project
-** its features and functionalities
-** its timeline of completion.
+*** describes the purpose of starting the project
+*** what business solution does it provides
+*** the purpose behind doing the project
+*** its features and functionalities
+*** its timeline of completion.
 ** /
