@@ -6,7 +6,7 @@
 *** the purpose behind doing the project
 *** its features and functionalities
 *** its timeline of completion.
-** KEY ELEMENTS
+** *KEY ELEMENTS*
 *** Executive Summary
 **** summarize the entier document
 **** outline the need for project
