@@ -8,6 +8,7 @@
 *** its timeline of completion.
 ** KEY ELEMENTS
 *** Executive Summary
+**** summarize the entier document
 *** Project scope
 *** Desired goals and project objectives
 *** Needs statement
