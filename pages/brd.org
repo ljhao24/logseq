@@ -10,6 +10,9 @@
 *** its features and functionalities
 *** its timeline of completion.
 ** *KEY ELEMENTS*
+:PROPERTIES:
+:background_color: rgb(73, 125, 70)
+:END:
 *** Executive Summary
 **** summarize the entier document
 **** outline the need for project
