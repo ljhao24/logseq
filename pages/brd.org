@@ -32,7 +32,7 @@
 **** how goals tie up to overall business objective
 **** ^^use [[SMART]] goals^^
 *** Needs statement
-**** convey the inmpritance of project
+**** convey the importance of product
 *** Requirements
 *** Identify Stakeholders
 *** SWOT analysis
