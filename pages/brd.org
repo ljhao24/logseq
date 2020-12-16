@@ -1,9 +1,6 @@
 #+TITLE: BRD
 
 ** what is BRD?
-:PROPERTIES:
-:heading: true
-:END:
 ** describes the purpose of starting the project
 ** what business solution does it provides
 ** the purpose behind doing the project
