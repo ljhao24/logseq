@@ -16,7 +16,7 @@
 *** EXECUTIVE SUMMARY
 **** summarize the entier document
 **** outline the need for project
-**** its requirement ((5fda0775-ad41-45d5-a344-304196b745e7))
+**** its requirement [[Requirements]]
 **** how does it tie up to overall business goals
 *** BACKGROUND
 *** PROJECT SCOPE
