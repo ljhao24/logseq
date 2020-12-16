@@ -23,7 +23,7 @@
 **** draws the boundaries of the product
 ***** /what is included in the product and what isn't/
 ***** /All project functionalities or special requests need to be included here/
-*** Desired goals and project objectives
+*** DESIRED GOALS AND PROJECT OBJECTIVES
 **** describe the high-level goals
 **** what will ultimately achieve
 **** who's for
